@@ -59,9 +59,6 @@ architecture--alexandrite/
 ├── Task5/                          # Кеширование
 │   ├── Архитектурное решение по кешированию.md
 │   └── caching_sequence_diagrams.drawio
-├── docs/                           # Дополнительная документация
-│   ├── jewerly_c4_model.drawio
-│   └── req.md
 └── README.md
 ```
 
